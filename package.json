@@ -7,7 +7,8 @@
   "type": "commonjs",
   "main": "cypress.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:open:chrome": "cypress open --browser chrome",
+    "cy:run:chrome": "cypress run --browser chrome"
   },
   "devDependencies": {
     "cypress-mochawesome-reporter": "^3.8.2",

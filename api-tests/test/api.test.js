@@ -52,5 +52,5 @@ describe('API Tests', () => {
     expect(response.status).toBe(400);
   });
 
-  // Note: Simulating a 500 error requires a mock server
+ 
 });
