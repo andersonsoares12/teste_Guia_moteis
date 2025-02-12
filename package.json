@@ -1,0 +1,17 @@
+{
+  "name": "teste-guia-de-moteis",
+  "version": "1.0.0",
+  "description": "testes QA Guia Moteis",
+  "license": "ISC",
+  "author": "Anderson Soares",
+  "type": "commonjs",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-multi-reporters": "^2.0.5",
+    "mocha-junit-reporter": "^2.2.1"
+  }
+}

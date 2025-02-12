@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="6.891" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-02-12T02:46:55" tests="0" file="cypress/e2e/cadastro.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="template spec" timestamp="2025-02-12T02:46:55" tests="1" time="6.887" failures="0">
+    <testcase name="template spec Digitar e-mails diferentes nos campos de &quot;E-mail&quot; e &quot;Confirmação de E-mail&quot; → Deve exibir erro." time="5.237" classname="Digitar e-mails diferentes nos campos de &quot;E-mail&quot; e &quot;Confirmação de E-mail&quot; → Deve exibir erro.">
+    </testcase>
+  </testsuite>
+</testsuites>
